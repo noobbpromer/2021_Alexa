@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "call911",
+      "invocationName": "call nine-one-one",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
