@@ -29,7 +29,7 @@ logger.setLevel(logging.INFO)
 accident_data = json.loads(open('car_accident.json').read())
 greet_data = json.loads(open('greet.json').read())
 injuries_data=json.loads(open('injuries.json').read())
-counter=0
+counter=222
 
 def listToString(s):  
     
